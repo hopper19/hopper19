@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is CUong Nguyen. I am a student in Computer Science and Computer Engineering.
+My name is **Cuong Nguyen**. I am a student in *Computer Science* and *Computer Engineering* major at the University of Scranton.
 <!--
 **hopper19/hopper19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
