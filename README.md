@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My name is **Cuong Nguyen**. I am a student in *Computer Science* and *Computer Engineering* major at the University of Scranton.
-😄 I love being involved robotics projects.
-⚡ Fun fact: I play piano sometimes for churches and musicals. Origami always holds a special place in my heart.
+- 😄 I love being involved robotics projects.
+- ⚡ Fun fact: I play piano sometimes for churches and musicals. Origami always holds a special place in my heart.
 
 Notable courses I took:
 * Data Structures and Algorithms
