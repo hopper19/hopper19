@@ -2,16 +2,18 @@
 
 My name is **Cuong Nguyen**. I am a student in *Computer Science* and *Computer Engineering* major at the University of Scranton.
 - 😄 I love being involved robotics projects.
+- 🔭 I’m currently working on a machine called Automatic Slide Stainer used for biochemical research purposes.
+- 🌱 I’m currently learning in depth about embedded systems programming.
 - ⚡ Fun fact: I play piano sometimes for churches and musicals. Origami always holds a special place in my heart.
 
 Notable courses I took:
 * Data Structures and Algorithms
-* Programming Languages
-* Artificial Intelligence
-* Computer Graphics
 * Digital Systems
+* Artificial Intelligence
+* Electronic Circuits
 * Digital Signal Processing
-* Machine Organization and Assembly Language
+* Communication Systems
+* Computer Graphics
 
 <!-- -->
 
@@ -20,8 +22,8 @@ Notable courses I took:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
