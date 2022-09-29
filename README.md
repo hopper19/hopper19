@@ -10,6 +10,8 @@ Notable courses I took:
 * Data Structures and Algorithms
 * Digital Systems
 * Artificial Intelligence
+* Operating Systems
+* Computer Architecture
 * Electronic Circuits
 * Digital Signal Processing
 * Communication Systems
