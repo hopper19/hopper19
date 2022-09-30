@@ -6,6 +6,8 @@ My name is **Cuong Nguyen**. I am a student in *Computer Science* and *Computer 
 - 🌱 I’m currently learning in depth about embedded systems programming.
 - ⚡ Fun fact: I play piano sometimes for churches and musicals. Origami always holds a special place in my heart.
 
+Here is the link to my project portfolio: https://hopper19.github.io/
+
 Notable courses I took:
 * Data Structures and Algorithms
 * Digital Systems
