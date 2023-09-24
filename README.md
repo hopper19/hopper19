@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-My name is **Cuong Nguyen**. I am a student in *Computer Science* and *Computer Engineering* major at the University of Scranton.
+My name is **Cuong Nguyen**. I am a Master's student in *Software Engineering* at the University of Scranton. My undergraduate degree was in *Computer Engineering* and *Computer Science*.
 - 😄 I love being involved robotics projects.
-- 🔭 I’m currently working on a machine called Automatic Slide Stainer used for biochemical research purposes.
-- 🌱 I’m currently learning in depth about embedded systems programming.
-- ⚡ Fun fact: I play piano sometimes for churches and musicals. Origami always holds a special place in my heart.
+- 🌱 I’m currently refining my skills in embedded systems programming.
 
 Here is the link to my project portfolio: https://hopper19.github.io/
 
@@ -18,6 +16,9 @@ Notable courses I took:
 * Digital Signal Processing
 * Communication Systems
 * Computer Graphics
+* Real-Time Systems
+* Robotics Design
+* Web Development
 
 <!-- -->
 
