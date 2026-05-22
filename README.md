@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is **Cuong Nguyen**. I am a Master's student in *Software Engineering* at the University of Scranton. My undergraduate degree was in *Computer Engineering* and *Computer Science*.
-- 😄 I love being involved robotics projects.
+My name is **Cuong Nguyen**.
+- 😄 I love being involved robotics, embedded, and full-stack projects.
 - 🌱 I’m currently refining my skills in embedded systems programming.
 
 Here is the link to my project portfolio: https://hopper19.github.io/
